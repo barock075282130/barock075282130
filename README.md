@@ -14,11 +14,9 @@
 ### :man_technologist: About Me :
 <h3>A fullstack developer from Thailand</h3>
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/barock075282130/socialmedia)
+- 🔭 I'm currently learning ASP.NET and C#. 
 
 - 👨‍💻 All of my projects are available at [https://katjapon-portfolio.vercel.app/](https://katjapon-portfolio.vercel.app/)
-
-- 📫 How to reach me **katjapon1998@gmail.com**
 
 ---
 
